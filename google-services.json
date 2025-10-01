@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "626295792791",
+    "project_id": "apppsychosocialhealth",
+    "storage_bucket": "apppsychosocialhealth.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626295792791:android:2ccc9be7c71a36bd4175d2",
+        "android_client_info": {
+          "package_name": "com.softtek.appsychosocialhealth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcVWZSmx9UYIyEKEtZwQPXfTQYBrQXn24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
