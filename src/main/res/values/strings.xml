@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AppPsychosocialHealth</string>
+    <string-array name="mood_options">
+        <item>Alegre</item>
+        <item>Triste</item>
+        <item>Cansado</item>
+        <item>Ansioso</item>
+        <item>Estressado</item>
+        <item>Motivado</item>
+    </string-array>
+</resources>
